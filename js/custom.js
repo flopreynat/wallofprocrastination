@@ -41,15 +41,15 @@ const sites = [
   
   
 
-squaresBox.addEventListener('click', () => {
-    contentIframe.src = 'http://gameaboutsquares.com/';
-    iframeContainer.style.display = 'block';
-});
+// squaresBox.addEventListener('click', () => {
+//     contentIframe.src = 'http://gameaboutsquares.com/';
+//     iframeContainer.style.display = 'block';
+// });
 
-dinosaurBox.addEventListener('click', () => {
-    contentIframe.src = 'https://trex-runner.com/';
-    iframeContainer.style.display = 'block';
-});
+// dinosaurBox.addEventListener('click', () => {
+//     contentIframe.src = 'https://trex-runner.com/';
+//     iframeContainer.style.display = 'block';
+// });
 
 closeButton.addEventListener('click', () => {
     contentIframe.src = '';
