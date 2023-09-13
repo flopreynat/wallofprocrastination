@@ -7,7 +7,7 @@
 
 // Créez un tableau d'objets contenant les id et les URLs correspondantes
 const sites = [
-    { id: 'squaresBox', url: 'http://gameaboutsquares.com/' },
+    // { id: 'squaresBox', url: 'http://gameaboutsquares.com/' },
     { id: 'dinosaurBox', url: 'https://www.trex-game.skipser.com/' },
     { id: 'eelslapBox', url: 'http://eelslap.com' },
     { id: 'shorttripBox', url: 'https://alexanderperrin.com.au/paper/shorttrip/' },
@@ -41,10 +41,10 @@ const sites = [
   
   
 
-squaresBox.addEventListener('click', () => {
-    contentIframe.src = 'http://gameaboutsquares.com/';
-    iframeContainer.style.display = 'block';
-});
+// squaresBox.addEventListener('click', () => {
+//     contentIframe.src = 'http://gameaboutsquares.com/';
+//     iframeContainer.style.display = 'block';
+// });
 
 // dinosaurBox.addEventListener('click', () => {
 //     contentIframe.src = 'https://trex-runner.com/';
