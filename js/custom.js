@@ -34,8 +34,10 @@ const sites = [
     { id: 'ring4Box', url: 'http://shapesmania.com/rings4n' },
     { id: 'goldrunBox', url: 'http://weirdly.net/webgames/goldRun/' },
     { id: 'grenouilleBox', url: 'http://weirdly.net/webgames/GourmandGrenouille/' },
+    { id: 'remojiBox', url: 'https://remoji.com/' },
+    { id: 'lacquerlacquerBox', url: 'https://www.lacquerlacquer.com/' },
 
-    // { id: 'Box', url: '' },
+    // { id: 'xxxBox', url: '' },
 
   ];
   
