@@ -36,7 +36,8 @@ const sites = [
     { id: 'grenouilleBox', url: 'http://weirdly.net/webgames/GourmandGrenouille/' },
     { id: 'remojiBox', url: 'https://remoji.com/' },
     { id: 'lacquerlacquerBox', url: 'https://www.lacquerlacquer.com/' },
-
+    { id: 'drumsoundBox', url: 'https://drumsound.net/' },
+    { id: 'astroalpacaBox', url: 'https://www.astroalpaca.com/' },
     // { id: 'xxxBox', url: '' },
 
   ];
