@@ -7,33 +7,22 @@
 
 // Créez un tableau d'objets contenant les id et les URLs correspondantes
 const sites = [
-    { id: 'squaresBox', url: 'http://gameaboutsquares.com/' },
     { id: 'dinosaurBox', url: 'https://www.trex-game.skipser.com/' },
-    { id: 'eelslapBox', url: 'http://eelslap.com' },
     { id: 'shorttripBox', url: 'https://alexanderperrin.com.au/paper/shorttrip/' },
-    { id: 'weavesilkBox', url: 'http://weavesilk.com/' },
     { id: 'zoomquiltBox', url: 'https://zoomquilt.org/' },
-    { id: 'donothingBox', url: 'http://www.donothingfor2minutes.com/' },
     { id: 'pacmanBox', url: 'https://freepacman.org/' },
     { id: 'flappy2048Box', url: 'https://flappy-2048.com/' },
     { id: 'polkaBox', url: 'https://www.polkadotgame.com/' },
-    { id: 'twentyBox', url: 'http://twenty.frenchguys.net/' },
     { id: 'koalasBox', url: 'https://www.koalastothemax.com/' },
     { id: 'smashthewallsBox', url: 'https://smashthewalls.com/' },
     { id: 'fallingfallingBox', url: 'https://www.fallingfalling.com/' },
     { id: 'chihuahuaBox', url: 'https://chihuahuaspin.com/' },
-    { id: 'buildshruggieBox', url: 'http://www.buildshruggie.com/' },
-    { id: 'patienceBox', url: 'http://www.patience-is-a-virtue.org/' },
     { id: 'skulltrumpetBox', url: 'https://skulltrumpet.com/' },
     { id: 'salamancaBox', url: 'https://www.hectorsalamanca.com/' },
     { id: 'blobBox', url: 'https://oimo.io/works/blob/' },
     { id: 'pentrisBox', url: 'https://www.pentris.net/' },
     { id: 'mazetoysBox', url: 'https://maze.toys/mazes/medium/daily/' },
     { id: 'sandcastlesBox', url: 'https://vectorpark.com/sandcastles/' },
-    { id: 'fractaljigsawBox', url: 'http://thatmichaelpark.github.io/fractal-jigsaw-puzzle/fractaljigsaw.html' },
-    { id: 'ring4Box', url: 'http://shapesmania.com/rings4n' },
-    { id: 'goldrunBox', url: 'http://weirdly.net/webgames/goldRun/' },
-    { id: 'grenouilleBox', url: 'http://weirdly.net/webgames/GourmandGrenouille/' },
     { id: 'remojiBox', url: 'https://remoji.com/' },
     { id: 'lacquerlacquerBox', url: 'https://www.lacquerlacquer.com/' },
     { id: 'drumsoundBox', url: 'https://drumsound.net/' },
@@ -41,18 +30,6 @@ const sites = [
     // { id: 'xxxBox', url: '' },
 
   ];
-  
-  
-
-// squaresBox.addEventListener('click', () => {
-//     contentIframe.src = 'http://gameaboutsquares.com/';
-//     iframeContainer.style.display = 'block';
-// });
-
-// dinosaurBox.addEventListener('click', () => {
-//     contentIframe.src = 'https://trex-runner.com/';
-//     iframeContainer.style.display = 'block';
-// });
 
 closeButton.addEventListener('click', () => {
     contentIframe.src = '';
