@@ -29,6 +29,7 @@ const sites = [
     { id: 'astroalpacaBox', url: 'https://www.astroalpaca.com/' },
     { id: 'collideBox', url: 'https://www.dontcollide.com/' },
     { id: 'babadumBox', url: 'https://babadum.com/' },
+    { id: 'insertcoinBox', url: 'https://coin.playables.net' },
     // { id: 'xxxBox', url: '' },
 
   ];
