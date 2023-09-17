@@ -28,6 +28,7 @@ const sites = [
     { id: 'drumsoundBox', url: 'https://drumsound.net/' },
     { id: 'astroalpacaBox', url: 'https://www.astroalpaca.com/' },
     { id: 'collideBox', url: 'https://www.dontcollide.com/' },
+    { id: 'babadumBox', url: 'https://babadum.com/' },
     // { id: 'xxxBox', url: '' },
 
   ];
