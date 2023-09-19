@@ -31,6 +31,7 @@ const sites = [
     { id: 'babadumBox', url: 'https://babadum.com/' },
     { id: 'insertcoinBox', url: 'https://coin.playables.net' },
     { id: 'jumpsagaBox', url: 'https://www.jumpsaga.com/' },
+    { id: 'sharkbeatBox', url: 'https://www.sharkbeat.com/' },
     // { id: 'xxxBox', url: '' },
 
   ];
