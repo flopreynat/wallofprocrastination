@@ -30,6 +30,7 @@ const sites = [
     { id: 'collideBox', url: 'https://www.dontcollide.com/' },
     { id: 'babadumBox', url: 'https://babadum.com/' },
     { id: 'insertcoinBox', url: 'https://coin.playables.net' },
+    { id: 'jumpsagaBox', url: 'https://www.jumpsaga.com/' },
     // { id: 'xxxBox', url: '' },
 
   ];
