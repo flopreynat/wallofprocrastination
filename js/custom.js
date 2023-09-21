@@ -32,6 +32,7 @@ const sites = [
     { id: 'insertcoinBox', url: 'https://coin.playables.net' },
     { id: 'jumpsagaBox', url: 'https://www.jumpsaga.com/' },
     { id: 'sharkbeatBox', url: 'https://www.sharkbeat.com/' },
+    { id: 'angrybirdsBox', url: 'https://sandstormdev.indie.af/' },
     // { id: 'xxxBox', url: '' },
 
   ];
