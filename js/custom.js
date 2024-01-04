@@ -34,7 +34,7 @@ const sites = [
     { id: 'sharkbeatBox', url: 'https://www.sharkbeat.com/' },
     { id: 'angrybirdsBox', url: 'https://sandstormdev.indie.af/' },
     { id: 'blackjackBox', url: 'https://www.html5blackjack.net/' },
-    { id: 'dino3dBox', url: 'https://outred.github.io/dino3d/' }
+    { id: 'dino3dBox', url: 'https://dinosaurgameoffline.com/t-rex-run-3d' }
     // { id: 'xxxBox', url: '' },
 
   ];
