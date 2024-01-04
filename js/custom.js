@@ -33,7 +33,8 @@ const sites = [
     { id: 'jumpsagaBox', url: 'https://www.jumpsaga.com/' },
     { id: 'sharkbeatBox', url: 'https://www.sharkbeat.com/' },
     { id: 'angrybirdsBox', url: 'https://sandstormdev.indie.af/' },
-    { id: 'blackjackBox', url: 'https://www.html5blackjack.net/' }
+    { id: 'blackjackBox', url: 'https://www.html5blackjack.net/' },
+    { id: 'dino3dBox', url: 'https://outred.github.io/dino3d/' }
     // { id: 'xxxBox', url: '' },
 
   ];
